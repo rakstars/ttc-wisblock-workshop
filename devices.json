@@ -1,0 +1,191 @@
+[
+    {
+        "ids": {
+            "device_id": "wb-env-00001",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00001",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00002",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00002",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00003",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00003",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00004",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00004",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    }{
+        "ids": {
+            "device_id": "wb-env-00005",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00005",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00006",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+       },
+        "name": "Environment Sensor #00006",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00007",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+       },
+        "name": "Environment Sensor #00007",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00008",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00008",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00009",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+       },
+        "name": "Environment Sensor #00009",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    },
+    {
+        "ids": {
+            "device_id": "wb-env-00010",
+            "dev_eui": "{add_device_eui}",
+            "join_eui": "{add_join_eui}"
+        },
+        "name": "Environment Sensor #00010",
+        "description": "Environment Monitoring Device",
+        "lorawan_version": "MAC_V1_0_2",
+        "lorawan_phy_version": "PHY_V1_0_2_REV_B",
+        "frequency_plan_id": "US_902_928_FSB_2",
+        "supports_join": true,
+        "root_keys": {
+            "app_key": {
+                "key": "{add_app_key}"
+            }
+            
+        }
+    }
+]
